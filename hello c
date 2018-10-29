@@ -1,0 +1,4 @@
+#include<tidio>
+void main()
+{
+print(hello c)
